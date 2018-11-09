@@ -5,7 +5,7 @@ Highly-motivated software engineer skilled in problem solving, process design, a
 
 ## Experience
 
-### SOFTWARE ENGINEER, OPTUM; NASHVILLE, TN — MARCH 2018 - PRESENT
+#### SOFTWARE ENGINEER, OPTUM; NASHVILLE, TN — MARCH 2018 - PRESENT
 
 Full-stack engineer on multiple projects covering application development on the front and back ends, application analytics, deployments with continuous integration and ChatOps, and database management.
 - Team was assigned to build an Initiative(Campaign) Manager tool
@@ -14,7 +14,7 @@ Full-stack engineer on multiple projects covering application development on the
 - Responsible for maintaining a mobile communications application,web application, and API
 - Managed client relations and software support
 
-### SOFTWARE ENGINEER, ADVISORY BOARD COMPANY; NASHVILLE, TN — JULY 2015 - MARCH 2018
+#### SOFTWARE ENGINEER, ADVISORY BOARD COMPANY; NASHVILLE, TN — JULY 2015 - MARCH 2018
 
 Full-stack engineer covering application development, application analytics, deployments with continuous integration and ChatOps, and database management.
 - Contributed to web application and API using Ruby on Rails and mobile communications application using React Native
@@ -23,18 +23,18 @@ Full-stack engineer covering application development, application analytics, dep
 - Responsible for maintaining Google and AWS web deployments
 - AWS security and resource management
 
-### DEVELOPER, ZEUMO; NASHVILLE, TN — DECEMBER 2012 - JULY 2015
+#### DEVELOPER, ZEUMO; NASHVILLE, TN — DECEMBER 2012 - JULY 2015
 Second developer hired at Zeumo, having contributed to a majority of the application.
 - Full stack developer using Ruby on Rails and a variety of front-end libraries/frameworks
 - Lead developer for analytics platform
 - Responsible for new developer on-boarding
 
-### LAB ASSISTANT & MENTOR, NASHVILLE SOFTWARE SCHOOL; NASHVILLE, TN — APRIL 2013 - PRESENT
+#### LAB ASSISTANT & MENTOR, NASHVILLE SOFTWARE SCHOOL; NASHVILLE, TN — APRIL 2013 - PRESENT
 - Lab assistant for Cohort 2 - Ruby on Rails course led by Eliza Brock
 - Coach for group and individual projects
 - Mentored students in three cohorts
 
-### OWNER/DEVELOPER; NASHVILLE, TN — 2009 - PRESENT
+#### OWNER/DEVELOPER; NASHVILLE, TN — 2009 - PRESENT
 Web application development, management, and consulting for small businesses and non-profits.
 
 **Claxton Dietetic Solutions** [claxtonsolutions.com](http://claxtonsolutions.com)
@@ -45,10 +45,10 @@ Web application development, management, and consulting for small businesses and
 
  Designed and developed a marketing website for automotive mechanic.
 
-### MANAGER, EARLY CHILDHOOD JEMS; NASHVILLE, TN — 2005 - 2012
+#### MANAGER, EARLY CHILDHOOD JEMS; NASHVILLE, TN — 2005 - 2012
 Responsible for accounting and payroll, inside/outside sales, inventory management, customer account management, marketing programs, event management and web content management. For this business, self-taught, designed, and developed a customer management system which included route management, sales notes, online ordering, rewards program and a contact database.
 
-### BASS PLAYER/MUSICIAN; NASHVILLE, TN — 1997 - PRESENT
+#### BASS PLAYER/MUSICIAN; NASHVILLE, TN — 1997 - PRESENT
 Traveled throughout North America as bass player in a touring band. Joined on stage by Steve Cropper, Bonnie Bramlett, Jack Pearson, and Jimmy Hall and many other talented artists and musicians. Opened for a variety of regional and national artists including Charlie Daniels Band.
 
 ## Technical Skills
