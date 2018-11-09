@@ -33,8 +33,9 @@ Second developer hired at Zeumo, having contributed to a majority of the applica
 - Coach for group and individual projects
 - Mentored students in three cohorts
 
-###### OWNER/DEVELOPER; NASHVILLE, TN — 2009 - PRESENT
+##### OWNER/DEVELOPER; NASHVILLE, TN — 2009 - PRESENT
 Web application development, management, and consulting for small businesses and non-profits.
+
 **Claxton Dietetic Solutions** [claxtonsolutions.com](http://claxtonsolutions.com)
 
  Designed and developed a marketing website and complex web application to improve business efficiency by automating client billing and workforce management.
