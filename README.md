@@ -5,6 +5,14 @@ Highly-motivated software engineer skilled in problem solving, process design, a
 
 ## Experience
 
+#### FREELANCE OWNER/DEVELOPER; NASHVILLE, TN — 2009 - PRESENT
+Web application development, management, and consulting for small businesses and nonprofits.
+
+- **Claxton Dietetic Solutions** [claxtonsolutions.com](http://claxtonsolutions.com)
+ Designed and developed a marketing website and complex web application to improve business efficiency by automating client billing and workforce management.
+
+- **Snider Automotive** [sniderautomotive.com](http://sniderautomotive.com) Designed and developed a marketing website for automotive mechanic.
+
 #### PRODUCT SUCCESS ENGINEER, BOS FRAMEWORK; NASHVILLE, TN — MAY 2019 - JUNE 2020
 
 Full-stack engineer on multiple projects covering application development on the front and back ends using C# and .NET Core. Responsible for Product market research, target audience outreach, and customer support from an Engineering perspective.
@@ -37,14 +45,6 @@ Second developer hired at Zeumo, having contributed to a majority of the applica
 - Lab assistant for Cohort 2 - Ruby on Rails course led by Eliza Brock
 - Coach for group and individual projects
 - Mentored students in three cohorts
-
-#### FREELANCE OWNER/DEVELOPER; NASHVILLE, TN — 2009 - PRESENT
-Web application development, management, and consulting for small businesses and nonprofits.
-
-- **Claxton Dietetic Solutions** [claxtonsolutions.com](http://claxtonsolutions.com)
- Designed and developed a marketing website and complex web application to improve business efficiency by automating client billing and workforce management.
-
-- **Snider Automotive** [sniderautomotive.com](http://sniderautomotive.com) Designed and developed a marketing website for automotive mechanic.
 
 #### MANAGER, EARLY CHILDHOOD JEMS; NASHVILLE, TN — 2005 - 2012
 Responsible for accounting and payroll, inside/outside sales, inventory management, customer account management, marketing programs, event management and web content management. For this business, self-taught, designed, and developed a customer management system which included route management, sales notes, online ordering, rewards program and a contact database.
