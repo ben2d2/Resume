@@ -15,7 +15,7 @@ Web application development, management, and consulting for small businesses and
 
 #### PRODUCT SUCCESS ENGINEER, BOS FRAMEWORK; NASHVILLE, TN — MAY 2019 - JUNE 2020
 
-Full-stack engineer on multiple projects covering application development on the front and back ends using C# and .NET Core. Responsible for Product market research, target audience outreach, and customer support from an Engineering perspective.
+Full-stack engineer on multiple projects covering application development on the front and back ends using C# and .NET Core. Responsible for product market research, target audience outreach, and customer support from an Engineering perspective.
 
 #### SOFTWARE ENGINEER, OPTUM; NASHVILLE, TN — MARCH 2018 - MAY 2019
 
