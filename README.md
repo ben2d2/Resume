@@ -11,7 +11,7 @@ Web application development, management, and consulting for small businesses and
 - **[Claxton Dietetic Solutions](http://claxtonsolutions.com)** - 
 Designed and developed a marketing website and complex web application to improve business efficiency by automating client billing and workforce management.
 
-- **Snider Automotive** [sniderautomotive.com](http://sniderautomotive.com) Designed and developed a marketing website for automotive mechanic.
+- **[Snider Automotive](http://sniderautomotive.com)** - Designed and developed a marketing website for automotive mechanic.
 
 #### PRODUCT SUCCESS ENGINEER, BOS FRAMEWORK; NASHVILLE, TN — MAY 2019 - JUNE 2020
 
