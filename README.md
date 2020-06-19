@@ -46,7 +46,7 @@ Second developer hired at Zeumo, having contributed to a majority of the applica
 - Coach for group and individual projects
 - Mentored students in three cohorts
 
-#### MANAGER, EARLY CHILDHOOD JEMS; NASHVILLE, TN — 2005 - 2012
+#### MANAGER, EARLY CHILDHOOD JEMS; NASHVILLE, TN — APRIL 2005 - DECEMBER 2012
 Responsible for accounting and payroll, inside/outside sales, inventory management, customer account management, marketing programs, event management and web content management. For this business, self-taught, designed, and developed a customer management system which included route management, sales notes, online ordering, rewards program and a contact database.
 
 #### BASS PLAYER/MUSICIAN; NASHVILLE, TN — 1997 - PRESENT
