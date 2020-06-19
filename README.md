@@ -8,7 +8,7 @@ Highly-motivated software engineer skilled in problem solving, process design, a
 #### FREELANCE OWNER/DEVELOPER; NASHVILLE, TN — 2009 - PRESENT
 Web application development, management, and consulting for small businesses and nonprofits.
 
-- **Claxton Dietetic Solutions** [claxtonsolutions.com](http://claxtonsolutions.com)
+- **[Claxton Dietetic Solutions](http://claxtonsolutions.com)** - 
 Designed and developed a marketing website and complex web application to improve business efficiency by automating client billing and workforce management.
 
 - **Snider Automotive** [sniderautomotive.com](http://sniderautomotive.com) Designed and developed a marketing website for automotive mechanic.
