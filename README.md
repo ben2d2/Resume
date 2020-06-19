@@ -78,7 +78,7 @@ Traveled throughout North America as bass player in a touring band. Joined on st
 - Cross Browser Testing & Debugging
 - Cross Functional Teams
 - Agile Development & Scrum
-- Offshore team management
+- Offshore team collaboration and management
 
 ## Education
 - Nashville Software School – 1st Cohort, September - December 2012
