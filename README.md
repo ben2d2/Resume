@@ -57,12 +57,28 @@ Responsible for accounting and payroll, inside/outside sales, inventory manageme
 Traveled throughout North America as bass player in a touring band. Joined on stage by Steve Cropper, Bonnie Bramlett, Jack Pearson, and Jimmy Hall and many other talented artists and musicians. Opened for a variety of regional and national artists including Charlie Daniels Band.
 
 ## Technical Skills
-- Ruby on Rails, Python with Django, Elasticsearch
-- Javascript, React and React Native
+
+#### Programming Languages & Tools
+- Ruby on Rails
+- Python with Django
+- .C# and .NET Core
+- Javascript
+- ReactJS
+- React Native
 - HTML and CSS
-- PostgreSQL, SQL
+- SQL
+- PostgreSQL
+- MySQL
+- Elasticsearch
+
+#### Workflows
 - Test Driven Development with unit testing and a variety of test frameworks
 - Application deployments using CI and ChatOps
+- Mobile-First, Responsive Design
+- Cross Browser Testing & Debugging
+- Cross Functional Teams
+- Agile Development & Scrum
+- Offshore team management
 
 ## Education
 - Nashville Software School – 1st Cohort, September - December 2012
