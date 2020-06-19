@@ -9,13 +9,17 @@ Highly-motivated software engineer skilled in problem solving, process design, a
 Web application development, management, and consulting for small businesses and nonprofits.
 
 - **Claxton Dietetic Solutions** [claxtonsolutions.com](http://claxtonsolutions.com)
- Designed and developed a marketing website and complex web application to improve business efficiency by automating client billing and workforce management.
+Designed and developed a marketing website and complex web application to improve business efficiency by automating client billing and workforce management.
 
 - **Snider Automotive** [sniderautomotive.com](http://sniderautomotive.com) Designed and developed a marketing website for automotive mechanic.
 
 #### PRODUCT SUCCESS ENGINEER, BOS FRAMEWORK; NASHVILLE, TN — MAY 2019 - JUNE 2020
 
-Full-stack engineer on multiple projects covering application development on the front and back ends using C# and .NET Core. Responsible for product market research, target audience outreach, and customer support from an Engineering perspective.
+Full-stack engineer on multiple projects covering application development on the front and back ends using C# and .NET Core.
+
+- Responsible for product market research, target audience outreach, and product support from an Engineering perspective
+- Created a robust documentation site for the BOS Framework product
+- Led off-shore teams on development of multiple client projects/products on the Services team
 
 #### SOFTWARE ENGINEER, OPTUM; NASHVILLE, TN — MARCH 2018 - MAY 2019
 
