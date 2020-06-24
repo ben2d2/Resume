@@ -14,7 +14,6 @@ Designed and developed a marketing website and complex web application to improv
 - **[Snider Automotive](http://sniderautomotive.com)** - Designed and developed a marketing website for automotive mechanic.
 
 #### PRODUCT SUCCESS ENGINEER, BOS FRAMEWORK; NASHVILLE, TN — MAY 2019 - JUNE 2020
-
 Full-stack engineer on multiple projects covering application development on the front and back ends using C# and .NET Core.
 
 - Responsible for product market research, target audience outreach, and product support from an Engineering perspective
@@ -22,8 +21,8 @@ Full-stack engineer on multiple projects covering application development on the
 - Led off-shore teams on development of multiple client projects/products on the Services team
 
 #### SOFTWARE ENGINEER, OPTUM; NASHVILLE, TN — MARCH 2018 - MAY 2019
-
 Full-stack engineer on multiple projects covering application development on the front and back ends, application analytics, deployments with continuous integration and ChatOps, and database management.
+
 - Assigned along with the team to build an Initiative(Campaign) Manager tool
 - Contributed to a Python/Django application with a robust API
 - Responsible for maintaining ReactJS web application
@@ -31,8 +30,8 @@ Full-stack engineer on multiple projects covering application development on the
 - Managed client relations and software support
 
 #### SOFTWARE ENGINEER, ADVISORY BOARD COMPANY; NASHVILLE, TN — JULY 2015 - MARCH 2018
-
 Full-stack engineer covering application development, application analytics, deployments with continuous integration and ChatOps, and database management.
+
 - Contributed to web application and API using Ruby on Rails and mobile communications application using React Native
 - Responsible for maintaining ReactNative mobile application
 - Led development of rich analytics using Elasticsearch with visualizations
@@ -41,6 +40,7 @@ Full-stack engineer covering application development, application analytics, dep
 
 #### DEVELOPER, ZEUMO; NASHVILLE, TN — DECEMBER 2012 - JULY 2015
 The second developer hired at Zeumo, having contributed to the majority of the application.
+
 - Developed using Ruby on Rails and a variety of front-end libraries/frameworks
 - Lead developer for analytics platform
 - Responsible for new developer on-boarding
