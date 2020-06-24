@@ -24,8 +24,8 @@ Full-stack engineer on multiple projects covering application development on the
 #### SOFTWARE ENGINEER, OPTUM; NASHVILLE, TN — MARCH 2018 - MAY 2019
 
 Full-stack engineer on multiple projects covering application development on the front and back ends, application analytics, deployments with continuous integration and ChatOps, and database management.
-- Team was assigned to build an Initiative(Campaign) Manager tool
-- Primary contributor to Python/Django application with a robust API
+- Assigned along with the team to build an Initiative(Campaign) Manager tool
+- Contributed to a Python/Django application with a robust API
 - Responsible for maintaining ReactJS web application
 - Responsible for maintaining a mobile communications application,web application, and API
 - Managed client relations and software support
@@ -40,18 +40,18 @@ Full-stack engineer covering application development, application analytics, dep
 - AWS security and resource management
 
 #### DEVELOPER, ZEUMO; NASHVILLE, TN — DECEMBER 2012 - JULY 2015
-Second developer hired at Zeumo, having contributed to a majority of the application.
-- Full stack developer using Ruby on Rails and a variety of front-end libraries/frameworks
+The second developer hired at Zeumo, having contributed to the majority of the application.
+- Developed using Ruby on Rails and a variety of front-end libraries/frameworks
 - Lead developer for analytics platform
 - Responsible for new developer on-boarding
 
 #### LAB ASSISTANT & MENTOR, NASHVILLE SOFTWARE SCHOOL; NASHVILLE, TN — APRIL 2013 - PRESENT
 - Lab assistant for Cohort 2 - Ruby on Rails course led by Eliza Brock
-- Coach for group and individual projects
+- Coached the group and individual projects
 - Mentored students in three cohorts
 
 #### MANAGER, EARLY CHILDHOOD JEMS; NASHVILLE, TN — APRIL 2005 - DECEMBER 2012
-Responsible for accounting and payroll, inside/outside sales, inventory management, customer account management, marketing programs, event management and web content management. For this business, self-taught, designed, and developed a customer management system which included route management, sales notes, online ordering, rewards program and a contact database.
+In a family business, we wore many hats. Responsible for accounting and payroll, inside/outside sales, inventory management, customer account management, marketing programs, event management, and web content management. For this business, self-taught, designed, and developed a customer management system which included route management, sales notes, online ordering, rewards program, and a contact database.
 
 #### BASS PLAYER/MUSICIAN; NASHVILLE, TN — 1997 - PRESENT
 Traveled throughout North America as bass player in a touring band. Joined on stage by Steve Cropper, Bonnie Bramlett, Jack Pearson, and Jimmy Hall and many other talented artists and musicians. Opened for a variety of regional and national artists including Charlie Daniels Band.
@@ -83,3 +83,8 @@ Traveled throughout North America as bass player in a touring band. Joined on st
 ## Education
 - Nashville Software School – 1st Cohort, September - December 2012
 - Volunteer State Community College - Information Technology, 2009 - 2010
+
+## Interests
+Before my professional career and my passion for music, I am a husband and father. We enjoy canoeing and kayaking, bike riding, hiking, running, cooking, art, music, and generally creating things together.
+
+I previously experienced and worked in Nashville's creative community pursuing a career in music. I love combining that passion for music with my passion for and skills in software engineering. The most important thing for me is to continue to expand my skills and knowledge of software engineering while delivering high-quality outcomes.
